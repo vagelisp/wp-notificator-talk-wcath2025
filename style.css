@@ -1,0 +1,37 @@
+ .slidev-page-2 div {
+    background-size: contain !important;
+}
+
+.slidev-page-3 .intro-image {
+	background-size: contain !important;
+}
+
+iframe {
+	width: 100vw;
+	height: 100vh;
+	border: none;
+}
+
+.display-none {
+	display: none !important;
+}
+
+/* .slidev-page-9 .grid-cols-2 {
+    grid-template-columns: initial;
+} */
+
+.align-center {
+	align-content: center;
+}
+
+.image-initial + div {
+	background-size: initial !important;
+}
+
+.image-contain + div {
+	background-size: contain !important;
+}
+
+pre.shiki.shiki-themes.vitesse-dark.vitesse-light.slidev-code {
+    background: #000;
+}
