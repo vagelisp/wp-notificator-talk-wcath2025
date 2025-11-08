@@ -20,7 +20,7 @@ transition: slide-up
 
 ---
 layout: intro-image-right
-image: '/public/images/portrait.png'
+image: '/images/portrait.png'
 transition: slide-left
 ---
 
@@ -29,7 +29,7 @@ transition: slide-left
 
 ---
 layout: intro-image
-image: '/public/images/org-profile.png'
+image: '/images/org-profile.png'
 transition: slide-left
 ---
 
@@ -65,7 +65,7 @@ layout: section
 
 ---
 layout: image-right
-image: '/public/images/email.png'
+image: '/images/email.png'
 class: 'align-center image-initial'
 transition: slide-right
 ---
@@ -76,7 +76,7 @@ transition: slide-right
 
 ---
 layout: image-right
-image: '/public/images/email.png'
+image: '/images/email.png'
 class: 'align-center image-initial'
 transition: fade-out
 ---
@@ -100,7 +100,7 @@ transition: fade-out
 
 ---
 layout: image-right
-image: '/public/images/esp32-c3-zero-3.jpg'
+image: '/images/esp32-c3-zero-3.jpg'
 class: 'align-center image-initial'
 transition: slide-right
 ---
@@ -112,7 +112,7 @@ transition: slide-right
 
 ---
 layout: image-right
-image: '/public/images/esp32-c3-zero-4.jpg'
+image: '/images/esp32-c3-zero-4.jpg'
 class: 'align-center image-initial'
 transition: fade-out
 ---
@@ -136,7 +136,7 @@ layout: section
 
 ---
 layout: image-right
-image: '/public/images/a1-mini.jpg'
+image: '/images/a1-mini.jpg'
 class: 'align-center image-contain'
 transition: slide-left
 ---
@@ -147,7 +147,7 @@ transition: slide-left
 
 ---
 layout: image-right
-image: '/public/images/a1-mini.jpg'
+image: '/images/a1-mini.jpg'
 class: 'align-center image-contain'
 transition: slide-down
 ---
@@ -178,7 +178,7 @@ layout: section
 
 ---
 layout: image-right
-image: '/public/images/wp-notificator.png'
+image: '/images/wp-notificator.png'
 class: 'align-center image-contain'
 transition: slide-left
 ---
@@ -191,7 +191,7 @@ transition: slide-left
 
 ---
 layout: image-right
-image: '/public/images/wp-notificator.png'
+image: '/images/wp-notificator.png'
 class: 'align-center image-contain'
 transition: fade-out
 ---
@@ -203,7 +203,7 @@ transition: fade-out
 
 ---
 layout: image-right
-image: '/public/images/wp-notificator.png'
+image: '/images/wp-notificator.png'
 transition: slide-up
 ---
 
