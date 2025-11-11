@@ -230,5 +230,6 @@ transition: fade-out
 <div class="absolute bottom-10">
   <h1>Vagelis Papaioannou</h1>
   <p>Full Stack Software Engineer</p>
-  <p>https://github.com/vagelisp<br>https://wp-notificator.com<br>https://wp-notificator.com</p>
+  <p><a href="https://github.com/vagelisp">https://github.com/vagelisp</a></p>
+  <p><a href="https://wp-notificator.com">https://wp-notificator.com</a></p>
 </div>
